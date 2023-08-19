@@ -3,4 +3,4 @@
 <h4>1.Encoder or contractive path</h4>
 <h4>2.Decoder or expanding path</h4>
 <image src='https://github.com/ahmadrezabaqerzade/UNet-from-scratch/blob/main/image/u-net-architecture.png'>
-Also i've been add a batchnormalize in UNet.
+<h4>Also i've been add a batchnormalize in UNet.</h4>
